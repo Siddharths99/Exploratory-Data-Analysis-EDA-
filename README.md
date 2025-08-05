@@ -1,2 +1,2 @@
-Exploratory Data Analysis (EDA) on Titanic Dataset
+#Exploratory Data Analysis (EDA) on Titanic Dataset
 This project performs Exploratory Data Analysis (EDA) on the Titanic dataset. I loaded the data, generated summary statistics, and created visualizations such as histograms, boxplots, and correlation heatmaps. I also explored patterns like survival rates by gender. Through EDA, I identified key features, found missing values, and gained insights to better understand the dataset for future analysis.
